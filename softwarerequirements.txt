@@ -1,0 +1,25 @@
+Hardware Requirements
+
+Software Requirements
+
+1. Operating System - Windows 10 (64-bit)
+
+2. XAMPP Server (Based on PHP Version)  - it install the following 
+	a. Apache
+	b. Mysql
+	c. PHP
+	d. Perl
+
+3. NetBeans IDE
+
+4. Mysql Workbench or Toad for MySQL
+
+5. Git
+
+6. Browsers:
+	a. Internet Explorer
+	b. Mozilla Firefox
+	c. Google Chrome
+	d. Apple Safari
+
+7. MicroSoft Word
